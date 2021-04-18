@@ -68,7 +68,7 @@ function Footer() {
             <i class="fab fa-superpowers" aria-hidden="true"></i>
             </Link>
           </div>
-          <small class='website-rights'>TRVL © 2021</small>
+          <small class='website-rights'>A$H © 2021</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
